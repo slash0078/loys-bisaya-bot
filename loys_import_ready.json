@@ -1,0 +1,215 @@
+{
+  "bot_name": "LOYS Pisowifi Fibernetworks IT Solutions - AI Support",
+  "language": "Bisaya (Cebuano/Visayan)",
+  "page_name": "LOYS Pisowifi Fibernetworks IT Solutions",
+  "contact": "09999690008",
+  "gcash": [
+    "09664903825",
+    "09999690008"
+  ],
+  "gcash_name": "SHN J",
+  "version": "1.0 - Ready for ManyChat / Meta AI Studio / Chatfuel",
+  "welcome_flow": {
+    "trigger": [
+      "hi",
+      "hello",
+      "kumusta",
+      "hey",
+      "good morning",
+      "maayong buntag"
+    ],
+    "reply_bisaya": "Kumusta! 👋 Ako ang AI Support sa LOYS Pisowifi Fibernetworks IT Solutions. Unsaon tika pagtabang karon?\n\nPili lang:\n1️⃣ Fibernet Plans\n2️⃣ Pisowifi Problem\n3️⃣ Wala Internet / LOS\n4️⃣ Payment / GCash\n5️⃣ Magpa-install\n\nI-type lang ang number o pangutana."
+  },
+  "all_plans_list_reply": "📡 LOYS Fibernet Plans:\n• Plan599 - 8Mbps - P599\n• Plan699 - 15Mbps - P699\n• Plan799 - 60Mbps - P799 [BEST SELLER]\n• Plan999 - 80Mbps - P999\n• Plan1299 - 120Mbps - P1,299\n• Plan1499 - 150Mbps - P1,499\n• Plan1999 - 200Mbps - P1,999\n• Plan2499 - 300Mbps - P2,499\n• Plan2999 - 600Mbps - P2,999\n• Plan3499 - 800Mbps - P3,499\n• Plan3999 - 1.2Gbps - P3,999\n\nFree install + 24/7 support. I-type ang PLAN ex: Plan999\nTawag: 09999690008 | GCash: 09664903825 / 09999690008 (SHN J)",
+  "fibernet_plans": [
+    {
+      "name": "Plan599",
+      "speed": "8Mbps",
+      "price": 599,
+      "keywords": [
+        "plan599",
+        "599",
+        "8mbps"
+      ],
+      "reply": "Ang Plan599 - 8Mbps - P599/month. Good for 2-3 devices, FB, YT. Gusto ka magpa-install? I-send Full Name + Barangay + Phone sa 09999690008.",
+      "best_for": "FB, YT, 2-3 devices"
+    },
+    {
+      "name": "Plan699",
+      "speed": "15Mbps",
+      "price": 699,
+      "keywords": [
+        "plan699",
+        "699",
+        "15mbps"
+      ],
+      "reply": "Ang Plan699 - 15Mbps - P699/month. Pang online class ug WFH, 3-4 devices. Gusto ka magpa-taod?",
+      "best_for": "Online Class, 3-4 devices"
+    },
+    {
+      "name": "Plan799",
+      "speed": "60Mbps",
+      "price": 799,
+      "keywords": [
+        "plan799",
+        "799",
+        "60mbps"
+      ],
+      "reply": "BEST SELLER! Plan799 - 60Mbps - P799/month! Pang pamilya 6-8 devices, Netflix + gaming. Magpa-install ka?",
+      "best_for": "BEST SELLER - Pamilya"
+    },
+    {
+      "name": "Plan999",
+      "speed": "80Mbps",
+      "price": 999,
+      "keywords": [
+        "plan999",
+        "999",
+        "80mbps"
+      ],
+      "reply": "Plan999 - 80Mbps - P999/month. Pang gaming, Netflix 4K, 8-10 devices. I-send location para ma-check coverage.",
+      "best_for": "Gaming, 4K"
+    },
+    {
+      "name": "Plan1299",
+      "speed": "120Mbps",
+      "price": 1299,
+      "keywords": [
+        "plan1299",
+        "1299",
+        "120mbps"
+      ],
+      "reply": "Plan1299 - 120Mbps - P1,299/month. Pang WFH + gaming sabay-sabay, kusog kaayo.",
+      "best_for": "WFH + Gaming"
+    },
+    {
+      "name": "Plan1499",
+      "speed": "150Mbps",
+      "price": 1499,
+      "keywords": [
+        "plan1499",
+        "1499",
+        "150mbps"
+      ],
+      "reply": "Plan1499 - 150Mbps - P1,499/month. Pang small business o dako pamilya, walay lag.",
+      "best_for": "Small Business"
+    },
+    {
+      "name": "Plan1999",
+      "speed": "200Mbps",
+      "price": 1999,
+      "keywords": [
+        "plan1999",
+        "1999",
+        "200mbps"
+      ],
+      "reply": "Plan1999 - 200Mbps - P1,999/month. Pang heavy users / business.",
+      "best_for": "Heavy Users"
+    },
+    {
+      "name": "Plan2499",
+      "speed": "300Mbps",
+      "price": 2499,
+      "keywords": [
+        "plan2499",
+        "2499",
+        "300mbps"
+      ],
+      "reply": "Plan2499 - 300Mbps - P2,499/month. Pang Pisowifi business + Fibernet.",
+      "best_for": "Pisowifi Business"
+    },
+    {
+      "name": "Plan2999",
+      "speed": "600Mbps",
+      "price": 2999,
+      "keywords": [
+        "plan2999",
+        "2999",
+        "600mbps"
+      ],
+      "reply": "Plan2999 - 600Mbps - P2,999/month. Pang dagkong Pisowifi / office, 50+ users kaya.",
+      "best_for": "Enterprise"
+    },
+    {
+      "name": "Plan3499",
+      "speed": "800Mbps",
+      "price": 3499,
+      "keywords": [
+        "plan3499",
+        "3499",
+        "800mbps"
+      ],
+      "reply": "Plan3499 - 800Mbps - P3,499/month. Pang Enterprise Pro.",
+      "best_for": "Enterprise Pro"
+    },
+    {
+      "name": "Plan3999",
+      "speed": "1.2Gbps",
+      "price": 3999,
+      "keywords": [
+        "plan3999",
+        "3999",
+        "1.2gbps",
+        "1200mbps"
+      ],
+      "reply": "PINAKAKUSOG! Plan3999 - 1.2Gbps - P3,999/month. Pinakapaspas para sa gustong ultra speed!",
+      "best_for": "ULTRA"
+    }
+  ],
+  "flows": {
+    "pisowifi_issue": {
+      "trigger": [
+        "pisowifi",
+        "piso wifi",
+        "pisonet",
+        "dili maka connect",
+        "walay piso"
+      ],
+      "reply": "Pisowifi problem: 1) I-restart ang vendo 10sec, 2) I-check main router, 3) I-send Vendo Location + pic sa screen. I-forward sa tech. 09999690008"
+    },
+    "no_internet_los": {
+      "trigger": [
+        "walay internet",
+        "wala net",
+        "los",
+        "pula",
+        "putol"
+      ],
+      "reply": "Pasensya. Buhata ni: 1) Restart ONU 10sec, 2) Check LOS kung pula = putol fiber, 3) Send Name+Plan+Location+pic sa modem lights. Tech padulong na. Tawag 09999690008"
+    },
+    "payment_gcash": {
+      "trigger": [
+        "bayad",
+        "payment",
+        "gcash",
+        "asa mag bayad"
+      ],
+      "reply": "GCash: 09664903825 / 09999690008 - SHN J. I-send screenshot + Full Name + Plan para ma-confirm. Salamat! LOYS Fibernetworks"
+    },
+    "installation": {
+      "trigger": [
+        "pa install",
+        "pa taod",
+        "magpakabit",
+        "apply"
+      ],
+      "reply": "Gusto magpa-install? I-send: 1) Full Name 2) Exact Location/Brgy 3) Phone 4) Plan ex: Plan799. I-check coverage. Free survey. 09999690008 - LOYS"
+    },
+    "human_agent": {
+      "trigger": [
+        "tawo",
+        "tao",
+        "agent",
+        "staff"
+      ],
+      "reply": "Gi-connect tika sa staff. Hulata kadali. Pwede direct tawag sa 09999690008 para paspas. Salamat!"
+    },
+    "default_fallback": {
+      "reply": "Pasensya wala ko kasabot. Pili: Fibernet Plans, Pisowifi Problem, Wala Internet, Payment, Magpa-install. O tawag 09999690008"
+    }
+  },
+  "import_instructions": {
+    "meta_ai_studio": "Paste welcome_flow + all_plans_list_reply + flows as Knowledge Base. Instruction: Always reply in Bisaya. You are LOYS support. Contact 09999690008 GCash 09664903825/09999690008 SHN J. Plans only from this list.",
+    "manychat": "Import as keywords. Use fibernet_plans keywords as triggers."
+  }
+}
